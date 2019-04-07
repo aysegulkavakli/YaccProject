@@ -1,0 +1,15 @@
+int a;
+int b;
+
+while a>b do 
+   if a%b=0 
+     print("b is the divisor of a");
+   else 
+     print("b is not the divisor of a);
+while a<b do
+   if b%a=0 
+     print("a is the divisor of b");
+   else 
+     print("a is not the divisor of b);
+while a=b do
+   print("a and b are equal, so both of them are divisor of each other");
